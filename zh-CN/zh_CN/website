@@ -1,17 +1,21 @@
 {
-    "css1": "../assets/css/app.css",
-    "copyrightnotice": "Copyright 2020 Thomas W Rhodes.",
-    "view": "layout.main",
-    "path": "/en_uk/",
-    "navbar": "/data/navbar.json",
-    "navbarlinks": "/data/linksmain.json",
-    "title": "Coders Down Under",
-    "welcome": "Welcome",
-    "message": "To the official CodersDownUnder Website",
-    "message2": "Something other then the above welcome message will be here at some point",
-    "active": [
+    "css1": "assets/css/app.css",
+    "view": "layout.lang",
+    "path": "/",
+    "title": "Select Langugage",
+    "name": "Select Language",
+    "language": [
         {
-            "home": "active"
+            "lang": "English",
+            "main": "en_uk/index.html",
+            "btn": "Select English",
+            "img": "assets/img/en_uk.jpg"
+        },
+        {
+            "lang": "Your language Here",
+            "main": "en_uk/translating/index.html",
+            "btn": "This could be your Language",
+            "img": "https://ipsumimage.appspot.com/640x360?l=This+could+be+your+language"
         }
     ]
 }
