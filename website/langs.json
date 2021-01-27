@@ -9,6 +9,11 @@
         "main": "en_uk/index.html",
         "btn": "Select English",
         "img": "assets/img/en_uk.jpg"
+    }, {
+        "lang": "Your language Here",
+        "main": "en_uk/translating/index.html",
+        "btn": "This could be your Language",
+        "img": "https://ipsumimage.appspot.com/640x360?l=This+could+be+your+language"
     }]
 
 }
