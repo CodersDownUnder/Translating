@@ -1,17 +1,12 @@
-{
-    "css1": "../assets/css/app.css",
-    "copyrightnotice": "Copyright 2020 Thomas W Rhodes.",
-    "view": "layout.main",
-    "path": "/en_uk/",
-    "navbar": "/data/navbar.json",
-    "navbarlinks": "/data/linksmain.json",
-    "title": "Coders Down Under",
-    "welcome": "Welcome",
-    "message": "To the official CodersDownUnder Website",
-    "message2": "Something other then the above welcome message will be here at some point",
-    "active": [
-        {
-            "home": "active"
-        }
-    ]
-}
+[
+    {
+        "title1": "Main",
+        "title2": "Mods",
+        "home": "Home",
+        "gemsplusplus": "GemsPlusPlus",
+        "lootbag": "Loot Bag Mod",
+        "discord": "Official Discord Server",
+        "magiceightcube": "Magic Eight Cube",
+        "translating": "Translating"
+    }
+]
