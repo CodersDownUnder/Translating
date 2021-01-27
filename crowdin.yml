@@ -1,9 +1,9 @@
 files:
   - source: /en_UK/website/*.json
-    translation: '%locale_with_underscore%/website/'
+    translation: '%locale_with_underscore%/website/%original_file_name%.json'
   - source: /en_UK/mods/gemsplusplus/*.json
-    translation: '%locale_with_underscore%/mods/gemsplusplus'
+    translation: '%locale_with_underscore%/mods/gemsplusplus/%original_file_name%.json'
   - source: /en_UK/mods/lootbagmod/*.json
-    translation: '%locale_with_underscore%/mods/lootbagmod'
+    translation: '%locale_with_underscore%/mods/lootbagmod/%original_file_name%.json'
   - source: /en_UK/mods/magiceightcube/*.json
-    translation: '%locale_with_underscore%/mods/magiceightcube'
+    translation: '%locale_with_underscore%/mods/magiceightcube/%original_file_name%.json'
