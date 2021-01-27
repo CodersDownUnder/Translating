@@ -1,0 +1,74 @@
+{
+    "css1": "../../assets/css/app.css",
+    "copyrightnotice": "Copyright 2020 Thomas W Rhodes.",
+    "view": "layout.item",
+    "path": "/en_uk/magiceightcube/",
+    "title": "Magic Eight Cube",
+    "name": "Magic Eight Cube",
+    "navbar": "/data/navbar.json",
+    "navbarlinks": "/data/linksmagiceight.json",
+    "img": "<img src=\"../../assets/img/magiceightcube.png\" alt=\"Image of loot bag\" width=\"150\" height=\"350\" class=\"card-img-top img-fluid\">",
+    "active": [{
+      "magiceightcube": "active"
+    }],
+    "versions": [{
+            "version": "1.15.0/1/2"
+        },
+        {
+            "version": "1.14.3/4"
+        },
+        {
+            "version": "1.12.2"
+        }
+    ],
+    "body": [{
+            "heading": true,
+            "name": "Magic Eight Cube"
+        },
+        {
+            "name": "Using",
+            "data": "To use a Magic Eight Cube Simple right click the air with it in your hand and a message from the cube will appear in chat."
+        },
+        {
+            "name": "Crafting",
+            "data": "<img src=\"../../assets/img/mecrec.png\" class=\"img-fluid\">"
+        },
+        {
+            "heading": true,
+            "name": "Configuration"
+        },
+        {
+            "config": true,
+            "name": "Custom Messages",
+            "info": "There needs to be a , after each entry, except the last one \n and make sure each entry is surrounded by \" double qoutes \"",
+            "data": "#Comments for custom magic eight ball (Syntax: \"This is a testing message\") \ncustommessages = [\"this is a test message whoopie\", \"It is definitely not certain\"]"
+        }
+    ],
+    "table": [{
+            "name": "Rarity:",
+            "data": "N/A"
+        },
+        {
+            "name": "Craftability:",
+            "data": "Craftable"
+        }
+    ],
+    "links": [{
+            "link": "https://www.curseforge.com/minecraft/mc-mods/magic-eight-cube",
+            "linktext": "Curse Forge Page"
+        },
+        {
+            "link": "https://github.com/CodersDownUnder/Magic-Eight-Cube/",
+            "linktext": "Github"
+        },
+        {
+            "link": "https://invite.gg/codersdownunder",
+            "linktext": "Official Coders Down Under Discord"
+        },
+        {
+          "link": "https://modrinth.com/mod/magiceightcube",
+          "linktext": "Modrinth Page"
+        }
+
+    ]
+}
